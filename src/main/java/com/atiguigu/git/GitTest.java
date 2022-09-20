@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("push test git4");
         System.out.println("pull test git4");
         System.out.println("conflict test");
+        System.out.println("conflict test");
 
         System.out.println("应该没有冲突3");
     }
