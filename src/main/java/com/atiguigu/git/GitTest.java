@@ -22,6 +22,6 @@ public class GitTest {
         System.out.println("这里pull2");
 
         System.out.println("这里新功能");
-
+        System.out.println("这里新功能3");
     }
 }
