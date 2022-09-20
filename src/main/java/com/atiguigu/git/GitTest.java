@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("应该没有冲突3");
         System.out.println("这里加一个不冲突的");
         System.out.println("这里没有冲突了吧");
+        System.out.println("这里pull");
     }
 }
