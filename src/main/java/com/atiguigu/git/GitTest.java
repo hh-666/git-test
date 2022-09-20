@@ -4,7 +4,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello idea git");
 
-
+        
 
         System.out.println("master git4");
         System.out.println("push test git4");
@@ -19,5 +19,8 @@ public class GitTest {
         System.out.println("这里没有冲突了吧");
         System.out.println("这里pull");
         System.out.println("这里pull2");
+        
+        System.out.println("这里新功能");
+        
     }
 }
