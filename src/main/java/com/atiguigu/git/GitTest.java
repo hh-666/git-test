@@ -12,7 +12,7 @@ public class GitTest {
         System.out.println("pull test git4");
         System.out.println("conflict test");
         System.out.println("conflict test");
-
+        System.out.println("真的冲突了");
         System.out.println("应该没有冲突3");
         System.out.println("这里加一个不冲突的");
     }
